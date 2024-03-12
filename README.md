@@ -21,8 +21,7 @@ Encourages experimentation with different classification algorithms.
 
 # Getting Started
 
-Clone the repository: git clone https://github.com/yourusername/iris-species-classification.git
-Install required packages: pip install -r requirements.txt
+Clone the repository: git clone https://github.com/robiul-islam-rubel/Internship_Iris-flower-classification.git
 Explore Jupyter notebooks for data exploration, model building, and analysis.
 Customize model hyperparameters and try various classification techniques.
 Gain insights into feature importance for accurate species classification.
